@@ -4,10 +4,17 @@ A simple React application to manage users. This app interacts with the JSONPlac
 
 ***Features
 
-1.View Users: Displays a list of users with details such as ID, First Name, Last Name, Email, and Department.
-2.Add User: Allows adding a new user with a form.
-3.Edit User: Enables editing an existing user’s details.
-4.Delete User: Allows deleting a user from the list.
+1.View Users:
+Displays a list of users with details such as ID, First Name, Last Name, Email, and Department.
+
+2.Add User: 
+Allows adding a new user with a form.
+
+3.Edit User: 
+Enables editing an existing user’s details.
+
+4.Delete User:
+Allows deleting a user from the list.
 
 ***Tech
 
@@ -22,6 +29,7 @@ Node.js
 
 1.Clone the repository:
 https://github.com/jaswanth2403/user-management-system.git
+
 cd user-management-system
 
 2.Install dependencies:
