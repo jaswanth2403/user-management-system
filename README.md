@@ -54,3 +54,6 @@ Update the fields and click the "Update" button to save changes.
 
 4.Delete User:
 Click the "Delete" button next to a user to remove them from the list.
+
+![user-management-system-ss](https://github.com/user-attachments/assets/c5e45772-8e5a-40a3-b424-24a2aace1f94)
+
